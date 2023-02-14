@@ -1,9 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "user": [
+    {
+      "id": 1,
+      "name": "Deeksha",
+      "last_name": "Purohit",
+      "email": "deeksha@gmail.com",
+      "password": "deeksha"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+"blogs":[{}],
+"posts":[{}]
 }
